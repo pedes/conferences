@@ -1,26 +1,46 @@
 Agenda: (Max 20 mins, aim 15-17), About 1:10 minutes per step
 - Introduction, Bio (:30 - 1:00)
 - Status quo being a developer (1-2:00)
-- Steps
+- Steps ( 15 min)
+
+These steps are not declared in order of presentation nor relevance
+1. Communication, public speak, how to communicate ideas well
+2. Teaching, training and being a trainee (technical leadership)
+3. Get your hands dirty, code, don't be an ivory tower architect 
+4. Train your alter-ego, (creative one), Analytical skills, problem solving
+5. Be courageous to step up, just decide that you can become a highly skilled architect
+6. Learn from other's people past experiences (learn patterns, and learn from the past)
+7. Staying up to date
+8. Coming to this presentation/conference
+
+
+- CTA? Go and decide which step will be the first one to apply
+- QA, Thanks.
+
+
+
+
+
+
 
 Reference from: https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b
 1. Whats a software architect? What she/he does?
 2. Design Skills, Design Patterns
-3. Code, Try out new technologies, POC?
+*******3. Code, Try out new technologies, POC?
 4. Know how to document
 5. Design Diagrams, Communicate
-6. How to speak? Public Speaking
-7. Coach, share experiences, what about a conference?
+*******6. How to speak? Public Speaking
+*******7. Coach, share experiences, what about a conference?
 8. Decision making
 9.
 10. 
 
 https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a
-1. communication
+*******1. communication
 2. Deep technical knowledge
 3. Problem solving skills
 4. REading a lot
-5. find a mentor
+*******5. find a mentor
 6. study courses, get certified
 7.
 8.
@@ -40,37 +60,37 @@ https://www.udemy.com/course/the-complete-guide-to-becoming-a-software-architect
 7. Design patterns
 8. How to document
 9. Architectural patterns, solutions for modern applications
-10. Soft skills
+*******10. Soft skills
 
 Other References:
 - Analytical skills. Developers must analyze users’ needs and then design software to meet those needs.
-- Communication skills. Developers must be able to give clear instructions to others working on a project. They must also explain to their customers how the software works and answer any questions that arise.
+*******- Communication skills. Developers must be able to give clear instructions to others working on a project. They must also explain to their customers how the software works and answer any questions that arise.
 - Computer skills. Developers must understand computer capabilities and programming languages in order to design effective software.
 - Creativity. Developers are the creative minds behind new computer software.
 - Detail oriented. Developers often work on many parts of an application or system at the same time and must therefore be able to concentrate and pay attention to detail.
-- Interpersonal skills. Software developers must be able to work well with others who contribute to designing, developing, and programming successful software.
+*******- Interpersonal skills. Software developers must be able to work well with others who contribute to designing, developing, and programming successful software.
 - Problem-solving skills. Because developers are in charge of software from beginning to end, they must be able to solve problems that arise throughout the design process.
 
 https://www.tripleco.com/2018/03/15/become-software-architect/
-1. Sharpen your communication (and charisma, too)
+*******1. Sharpen your communication (and charisma, too)
 2. Upgrade your tech knowledge
-3. Surround yourself with better
-4. Get a mentor, be a mentor
+*******3. Surround yourself with better
+*******4. Get a mentor, be a mentor
 5. Be ready to step up
 
 https://www.roberthalf.com/blog/salaries-and-skills/how-to-become-a-software-architect
 -Try to work with people better than yourself. 
-- Teach others.
+*******- Teach others.
 - Be willing to take responsibility.
 - Be able to model your ideas
 - Lead by example.
-- Be able to communicate ideas to both technical and non-technical people. I
+*******- Be able to communicate ideas to both technical and non-technical people. I
 - Strive for empathy.
 - Watch presentations.
 - Read code.
 - Write code. 
 - Build bigger things
-- Meet people.
+*******- Meet people.
 - Have a side project
 - Be open-minded.
 
@@ -78,7 +98,7 @@ https://www.roberthalf.com/blog/salaries-and-skills/how-to-become-a-software-arc
 https://www.infoq.com/articles/brown-are-you-a-software-architect/
 1.Ownership of the bigger picture: 
 2. Leadership:
-3. Coaching and mentoring:
+*******3. Coaching and mentoring:
 4. Quality assurance:
 5 Design, development and testing:  
 Many companies have policies that prevent software architects from engaging in coding activities 
